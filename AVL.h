@@ -673,7 +673,7 @@ class AvlTree {
 
 
 
-    //NEED TO DELETE
+    //self check if tree is balanced
     
         bool aux_check_balance(AvlNode<T>* current)
         {
